@@ -17,12 +17,12 @@ import Contact from './Contact';
 
 
   var config = {
-    apiKey: "AIzaSyAuv9qfQrLVUc7C8wfb3QYWgp_rxLsCNWE",
-    authDomain: "latihan-pwa-4b427.firebaseapp.com",
-    databaseURL: "https://latihan-pwa-4b427.firebaseio.com",
-    projectId: "latihan-pwa-4b427",
-    storageBucket: "latihan-pwa-4b427.appspot.com",
-    messagingSenderId: "553076283499"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: ""
   };
   firebase.initializeApp(config);
 
